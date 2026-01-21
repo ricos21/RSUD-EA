@@ -1,0 +1,13 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="khusus Lab Test Execution"
+    id="id-581dd51d2b964f7d97a1118d643a846a"
+    documentation="khusus Lab Test Execution">
+  <source
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_id-dee1602b1797496ea99967ab1bb0b6ca.xml#id-dee1602b1797496ea99967ab1bb0b6ca"/>
+  <target
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_id-340a864636d745ecb22763f6425dd0ae.xml#id-340a864636d745ecb22763f6425dd0ae"/>
+</archimate:ServingRelationship>

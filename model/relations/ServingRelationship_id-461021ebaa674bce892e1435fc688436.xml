@@ -1,0 +1,13 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="khusus Radiology Examination"
+    id="id-461021ebaa674bce892e1435fc688436"
+    documentation="khusus Radiology Examination">
+  <source
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_id-fd2e95bd4e314b0f98d77a7415d061ba.xml#id-fd2e95bd4e314b0f98d77a7415d061ba"/>
+  <target
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_id-340a864636d745ecb22763f6425dd0ae.xml#id-340a864636d745ecb22763f6425dd0ae"/>
+</archimate:ServingRelationship>
