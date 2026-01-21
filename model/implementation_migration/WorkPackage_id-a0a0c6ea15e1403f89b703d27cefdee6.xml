@@ -1,0 +1,24 @@
+<archimate:WorkPackage
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="WP1: Master Patient Index Implementation"
+    id="id-a0a0c6ea15e1403f89b703d27cefdee6"
+    documentation="WP1: Master Patient Index Implementation&#xD;&#xA;Design, develop, and deploy centralized MPI with legacy data migration.&#xD;&#xA;Includes data quality assessment, deduplication engine setup, &#xD;&#xA;and cross-reference configuration.&#xD;&#xA;">
+  <properties
+      key="Duration"
+      value="2 months"/>
+  <properties
+      key="Budget"
+      value="Rp 500,000,000"/>
+  <properties
+      key="Owner"
+      value="IT Departement"/>
+  <properties
+      key="Status"
+      value="Planned"/>
+  <properties
+      key="Dependencies"
+      value="Data audit completion, stakeholder approval"/>
+  <properties
+      key="Risk"
+      value="High - Data quality issues during migration"/>
+</archimate:WorkPackage>

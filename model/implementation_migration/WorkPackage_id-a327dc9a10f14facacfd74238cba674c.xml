@@ -1,0 +1,9 @@
+<archimate:WorkPackage
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="WP6: BPJS Integration &amp; Claim Automation"
+    id="id-a327dc9a10f14facacfd74238cba674c"
+    documentation="&#xD;&#xA;">
+  <properties
+      key="Duration"
+      value="4 months"/>
+</archimate:WorkPackage>

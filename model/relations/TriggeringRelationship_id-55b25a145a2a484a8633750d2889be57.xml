@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Migration Path"
+    id="id-55b25a145a2a484a8633750d2889be57">
+  <source
+      xsi:type="archimate:Plateau"
+      href="Plateau_id-cdf3bf22b4a94df29de4bda4bb43b4d9.xml#id-cdf3bf22b4a94df29de4bda4bb43b4d9"/>
+  <target
+      xsi:type="archimate:Plateau"
+      href="Plateau_id-85d7e66e43724f65b0c39d11d0f85469.xml#id-85d7e66e43724f65b0c39d11d0f85469"/>
+</archimate:TriggeringRelationship>

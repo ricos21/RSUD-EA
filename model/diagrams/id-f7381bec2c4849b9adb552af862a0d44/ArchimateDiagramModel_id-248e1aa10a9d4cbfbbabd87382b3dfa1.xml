@@ -5,6 +5,17 @@
     id="id-248e1aa10a9d4cbfbbabd87382b3dfa1">
   <children
       xsi:type="archimate:DiagramModelGroup"
+      id="id-9ef46e96c88a4cd38237d12a82fa5836"
+      name="Data Object"
+      textAlignment="1">
+    <bounds
+        x="207"
+        y="1008"
+        width="1507"
+        height="121"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelGroup"
       id="id-e8c474f7c45145e6a14026b3cc1deb76"
       name="Application Services"
       fontColor="#ffffff"

@@ -1,0 +1,9 @@
+<archimate:WorkPackage
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="WP4: LIS/RIS Integration (HL7/FHIR Gateway)"
+    id="id-ef912e41f69e4cea8f16f00eed546d71"
+    documentation="&#xD;&#xA;">
+  <properties
+      key="Duration"
+      value="3 months"/>
+</archimate:WorkPackage>

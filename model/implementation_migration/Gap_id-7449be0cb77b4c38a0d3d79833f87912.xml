@@ -1,0 +1,5 @@
+<archimate:Gap
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Gap: No Master Patient Index"
+    id="id-7449be0cb77b4c38a0d3d79833f87912"
+    documentation="Impact: High&#xD;&#xA;Priority: Critical&#xD;&#xA;Description: Lack of MPI causes duplicate patient records, &#xD;&#xA;data inconsistency across departments, and patient safety risks.&#xD;&#xA;Addressed by: WP1 - MPI Implementation&#xD;&#xA;"/>
