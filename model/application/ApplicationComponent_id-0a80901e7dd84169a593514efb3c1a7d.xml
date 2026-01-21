@@ -1,4 +1,15 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Queue Management System"
-    id="id-0a80901e7dd84169a593514efb3c1a7d"/>
+    id="id-0a80901e7dd84169a593514efb3c1a7d">
+  <properties
+      key="Availability"/>
+  <properties
+      key="Database"/>
+  <properties
+      key="Integration Standards"/>
+  <properties
+      key="Technology"/>
+  <properties
+      key="Vendor"/>
+</archimate:ApplicationComponent>

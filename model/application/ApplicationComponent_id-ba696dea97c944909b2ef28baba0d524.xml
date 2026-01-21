@@ -1,4 +1,15 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Pharmacy Management System"
-    id="id-ba696dea97c944909b2ef28baba0d524"/>
+    id="id-ba696dea97c944909b2ef28baba0d524">
+  <properties
+      key="Availability"/>
+  <properties
+      key="Database"/>
+  <properties
+      key="Integration Standards"/>
+  <properties
+      key="Technology"/>
+  <properties
+      key="Vendor"/>
+</archimate:ApplicationComponent>

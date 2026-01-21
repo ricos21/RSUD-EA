@@ -1,4 +1,15 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Core HIS Platform"
-    id="id-23132217b74a4287b0477b5a40e9a65a"/>
+    id="id-23132217b74a4287b0477b5a40e9a65a">
+  <properties
+      key="Availability"/>
+  <properties
+      key="Database"/>
+  <properties
+      key="Integration Standards"/>
+  <properties
+      key="Technology"/>
+  <properties
+      key="Vendor"/>
+</archimate:ApplicationComponent>

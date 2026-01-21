@@ -1,4 +1,21 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Master Patient Index (MPI) Platform"
-    id="id-de8e2720cfc6414d84c7d0aaa42e65a4"/>
+    id="id-de8e2720cfc6414d84c7d0aaa42e65a4"
+    documentation="Centralized patient identity management system with &#xD;&#xA;deduplication and cross-reference capabilities. &#xD;&#xA;Ensures single source of truth for patient demographics &#xD;&#xA;across all hospital systems.&#xD;&#xA;">
+  <properties
+      key="Vendor"
+      value="TBD - Procurement"/>
+  <properties
+      key="Technology"
+      value="Java/Spring Boot"/>
+  <properties
+      key="Database"
+      value="PostgreSQL"/>
+  <properties
+      key="Integration Standards"
+      value="HL7 v2, FHIR R4"/>
+  <properties
+      key="Availability"
+      value="99.9%"/>
+</archimate:ApplicationComponent>

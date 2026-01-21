@@ -1,4 +1,15 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Radiology Information System (RIS)"
-    id="id-32dc8e38186e4fdb94218ea1a068d024"/>
+    id="id-32dc8e38186e4fdb94218ea1a068d024">
+  <properties
+      key="Availability"/>
+  <properties
+      key="Database"/>
+  <properties
+      key="Integration Standards"/>
+  <properties
+      key="Technology"/>
+  <properties
+      key="Vendor"/>
+</archimate:ApplicationComponent>

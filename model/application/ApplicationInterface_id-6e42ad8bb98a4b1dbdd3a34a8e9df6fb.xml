@@ -2,4 +2,4 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="FHIR REST API"
     id="id-6e42ad8bb98a4b1dbdd3a34a8e9df6fb"
-    documentation="For modern integration and interoperability"/>
+    documentation="FHIR R4 RESTful API for modern interoperability.&#xD;&#xA;Resources: Patient, Observation, MedicationRequest, &#xD;&#xA;DiagnosticReport, Encounter.&#xD;&#xA;Used for: EHR integration, Patient Portal, Mobile Apps.&#xD;&#xA;Authentication: OAuth 2.0.&#xD;&#xA;"/>
